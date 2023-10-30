@@ -102,5 +102,6 @@ git branch -d <Название ветки>
 
 # Добавляем ссылки
 [Ссылка на канал Kuplinov](https://www.youtube.com/@kuplinovplay)
+[Ссылка на музыку](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 # Добавляем списки

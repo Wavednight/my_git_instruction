@@ -101,5 +101,6 @@ git branch -d <Название ветки>
 # Добавляем изображение
 
 # Добавляем ссылки
+[Ссылка на канал Kuplinov](https://www.youtube.com/@kuplinovplay)
 
 # Добавляем списки
